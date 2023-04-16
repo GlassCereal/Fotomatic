@@ -50,6 +50,7 @@ header {
 
 header .content {
   display: flex;
+  height: 5.3125rem;
   align-items: center;
   padding: 0 1.875rem;
 }
@@ -96,6 +97,7 @@ header .mobile {
   }
 
   header .content {
+    height: 3rem;
     padding: .5rem 0;
   }
 
